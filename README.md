@@ -1,7 +1,7 @@
 # Ecommerce-AdaLov
 # Objetivo
 
-## El objetivo era crear un Ecommerce de ropa en donde las personas pudieran comprar ropa de distintas marcas, ver detalles del producto, poder crearse una cuenta, ver el historial de compras y poder dejar una reseña del producto. Además, los usuarios tienen la posibilidad de crear una remera personalizada.
+El objetivo era crear un Ecommerce de ropa en donde las personas pudieran comprar ropa de distintas marcas, ver detalles del producto, poder crearse una cuenta, ver el historial de compras y poder dejar una reseña del producto. Además, los usuarios tienen la posibilidad de crear una remera personalizada.
 
 # Funcionalidades
 
